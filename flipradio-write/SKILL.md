@@ -1,10 +1,8 @@
 ---
 name: flipradio-write
-description: |
-  引导式写作 skill，通过提问帮用户从模糊想法到完整文章。
-  采用 FlipRadio 批判性公共知识分子风格：螺旋递进论证、
-  制造落差感的开篇、在最高张力处停笔的结尾、文白夹杂雅俗交融。
-  触发词：写文章、我想写个东西、flipradio-write。
+description: >
+  Use when user wants to write an article from scratch in FlipRadio critical style.
+  Triggers: 写文章, 我想写个东西, flipradio-write, 翻转电台风格写作.
 allowed-tools:
   - Read
   - Write

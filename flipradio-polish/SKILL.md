@@ -1,9 +1,8 @@
 ---
 name: flipradio-polish
-description: |
-  润色已有文章，按 FlipRadio 批判性公共知识分子风格的10维度框架
-  进行诊断打分和具体改写。诊断卡 + 句子级改写建议 + 完整改写稿。
-  触发词：润色、帮我改改、flipradio-polish。
+description: >
+  Use when polishing an existing article against FlipRadio critical style.
+  Triggers: 润色, 帮我改改, flipradio-polish, 改成翻转风格.
 allowed-tools:
   - Read
   - Write
